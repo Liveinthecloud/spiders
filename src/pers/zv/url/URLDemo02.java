@@ -2,6 +2,8 @@ package pers.zv.url;
 
 import java.io.*;
 import java.net.URL;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -11,8 +13,9 @@ import java.util.regex.Pattern;
  * 获取资源：源代码
  */
 public class URLDemo02 {
+   static List<String> urlList=new ArrayList<>();
     public static void main(String[] Q_Q) throws IOException {
-        URL url=new URL("http://www.baidu.com");
+        URL url=new URL("https://www.csdn.net/gather_2f/MtTaUgzsMDUzNi1ibG9n.html");
         /*
         //获取资源 网路流
         InputStream is=url.openStream();
@@ -31,9 +34,12 @@ public class URLDemo02 {
                 "UTF-8"));
         String msg=null;
         while (null!=(msg=br.readLine())){
-            URLDemo02.MyMatcher(msg);
-            bw.write(msg);
+            URLDemo02.MyMatcher(msg);//读取一行，正则表达式提取url
+            bw.write(msg);//写入test.html
             bw.newLine();
+        }
+        for(String temp:URLDemo02.urlList){
+            System.out.println(temp);
         }
         bw.flush();
         br.close();
@@ -49,7 +55,8 @@ public class URLDemo02 {
         Matcher matcher=pattern.matcher(str);
         if(matcher.find())
         {
-            System.out.println(matcher.group());
+            //System.out.println(matcher.group());
+            urlList.add(matcher.group());
         }
     }
 }
