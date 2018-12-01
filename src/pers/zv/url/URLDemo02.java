@@ -14,8 +14,8 @@ import java.util.regex.Pattern;
  */
 public class URLDemo02 {
    static List<String> urlList=new ArrayList<>();
-    public static void main(String[] Q_Q) throws IOException {
-        URL url=new URL("https://www.csdn.net/gather_2f/MtTaUgzsMDUzNi1ibG9n.html");
+    public static void get(String urllist) throws IOException {
+        URL url=new URL(urllist);
         /*
         //获取资源 网路流
         InputStream is=url.openStream();
@@ -38,9 +38,6 @@ public class URLDemo02 {
             bw.write(msg);//写入test.html
             bw.newLine();
         }
-        for(String temp:URLDemo02.urlList){
-            System.out.println(temp);
-        }
         bw.flush();
         br.close();
         bw.close();
@@ -48,7 +45,7 @@ public class URLDemo02 {
     public static void MyMatcher(String str){
         String wz=null;
         //网站正则表达式
-        String wangzhi="[a-zA-Z]+://[^\\s]*";
+        String wangzhi="http://([\\w-]+\\.)+[\\w-]+(/[\\w- ./?%&=]*)?";
         //Pattern对象
         Pattern pattern=Pattern.compile(wangzhi);
         //创建Matcher对象
