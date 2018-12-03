@@ -1,5 +1,6 @@
 package Spiders.url;
 
+import java.util.Collection;
 import java.util.LinkedList;
 
 public class MyQueue {
@@ -7,7 +8,7 @@ public class MyQueue {
     public MyQueue(){ urllist=new LinkedList<String>(); }
     public void addUrl(String url){
         urllist.addLast(url);
-        System.out.println(url);
+        //System.out.println(url);
     }
     public String getUrl(){
         return urllist.removeFirst();
@@ -17,5 +18,9 @@ public class MyQueue {
     }
     public int size(){
         return urllist.size();
+    }
+
+    public Collection<String> getList(){
+        return urllist;
     }
 }
