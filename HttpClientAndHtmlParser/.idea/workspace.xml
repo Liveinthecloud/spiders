@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="893d3de2-d754-4bc2-b39a-40fa1041a315" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1910831423">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1019" />
+          <entry key="xml" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1019" />
+          <entry key="XML" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="2" />
+          <entry key="class" value="4" />
+          <entry key="java" value="4" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="4" />
+          <entry key="Properties" value="1" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HttpClientAndHtmlParser" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/宽度优先示例/RetrivePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="60" column="65" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/HttpMethodBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="799" column="25" lean-forward="true" selection-start-line="799" selection-start-column="25" selection-end-line="799" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://MAVEN/spiders.test:Spider:1.0-SNAPSHOT">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>MAVEN</ID>
+              <OriginalElement>spiders.test:Spider:1.0-SNAPSHOT</OriginalElement>
+              <nodes>
+                <node x="152.875" y="240.0">spiders.test:Spider:1.0-SNAPSHOT</node>
+                <node x="77.87499999999999" y="160.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2</node>
+                <node x="204.0" y="80.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1</node>
+                <node x="285.0" y="0.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1/commons-logging:commons-logging:jar:1.0.4</node>
+                <node x="136.0" y="0.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1/commons-codec:commons-codec:jar:1.2</node>
+                <node x="30.0" y="80.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11</node>
+                <node x="0.0" y="0.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1/commons-codec:commons-codec:jar:1.2">
+                  <point x="-36.75" y="-15.0" />
+                  <point x="240.75" y="55.0" />
+                  <point x="200.5" y="55.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1">
+                  <point x="55.0" y="-15.0" />
+                  <point x="242.875" y="135.0" />
+                  <point x="277.5" y="135.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="spiders.test:Spider:1.0-SNAPSHOT" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11">
+                  <point x="-55.0" y="-15.0" />
+                  <point x="132.875" y="135.0" />
+                  <point x="58.0" y="135.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1/commons-logging:commons-logging:jar:1.0.4">
+                  <point x="36.75" y="-15.0" />
+                  <point x="314.25" y="55.0" />
+                  <point x="354.5" y="55.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="-11.0" />
+              <SelectedNodes />
+              <Categories />
+              <VISIBILITY>All</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/宽度优先示例/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/宽度优先示例/RetrivePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Spider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Spider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="宽度优先示例" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="宽度优先示例" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HttpClientAndHtmlParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HttpClientAndHtmlParser" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553229574132" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spiders\HttpClientAndHtmlParser\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RetrivePage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="宽度优先示例.RetrivePage" />
+      <module name="HttpClientAndHtmlParser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="宽度优先示例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RetrivePage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="893d3de2-d754-4bc2-b39a-40fa1041a315" name="Default Changelist" comment="" />
+      <created>1553180502031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553180502031</updated>
+      <workItem from="1553180507243" duration="1669000" />
+      <workItem from="1553211697265" duration="8565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10234000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.13882864" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" sideWeight="0.86117136" side_tool="true" visible="true" weight="0.25266525" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5009141" side_tool="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38286334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.2947761" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/宽度优先示例/RetrivePage.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/lib/httpclient-4.5.7.jar!/org/apache/http/client/HttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0/httpclient-4.0.jar!/org/apache/http/impl/client/DefaultHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2804">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/httpclient-4.5.7.jar!/org/apache/http/client/HttpResponseException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/httpclient-4.5.7.jar!/org/apache/http/client/version.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0/httpclient-4.0-sources.jar!/org/apache/http/impl/client/AbstractHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3988">
+          <caret line="599" column="33" selection-start-line="599" selection-start-column="33" selection-end-line="599" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/spiders.test:Spider:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>spiders.test:Spider:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="152.875" y="240.0">spiders.test:Spider:1.0-SNAPSHOT</node>
+            <node x="77.87499999999999" y="160.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2</node>
+            <node x="204.0" y="80.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1</node>
+            <node x="285.0" y="0.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1/commons-logging:commons-logging:jar:1.0.4</node>
+            <node x="136.0" y="0.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1/commons-codec:commons-codec:jar:1.2</node>
+            <node x="30.0" y="80.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11</node>
+            <node x="0.0" y="0.0">org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1/commons-codec:commons-codec:jar:1.2">
+              <point x="-36.75" y="-15.0" />
+              <point x="240.75" y="55.0" />
+              <point x="200.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1">
+              <point x="55.0" y="-15.0" />
+              <point x="242.875" y="135.0" />
+              <point x="277.5" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="spiders.test:Spider:1.0-SNAPSHOT" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/junit:junit:jar:4.11">
+              <point x="-55.0" y="-15.0" />
+              <point x="132.875" y="135.0" />
+              <point x="58.0" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1" target="org.kie.modules:org-apache-commons-httpclient:pom:6.2.0.CR2/commons-httpclient:commons-httpclient:jar:3.1/commons-logging:commons-logging:jar:1.0.4">
+              <point x="36.75" y="-15.0" />
+              <point x="314.25" y="55.0" />
+              <point x="354.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="-11.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0/httpclient-4.0-sources.jar!/org/apache/http/impl/client/DefaultHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="155" column="13" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar!/org/apache/commons/httpclient/HttpMethodBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="346" column="18" selection-start-line="346" selection-start-column="18" selection-end-line="346" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/HttpMethodBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="799" column="25" lean-forward="true" selection-start-line="799" selection-start-column="25" selection-end-line="799" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/宽度优先示例/RetrivePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="60" column="65" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HttpClientAndHtmlParser</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>httpclient-4.4.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
