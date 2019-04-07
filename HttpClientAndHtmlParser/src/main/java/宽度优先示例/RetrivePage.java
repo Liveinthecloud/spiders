@@ -1,10 +1,8 @@
 package 宽度优先示例;
 
 import org.apache.commons.httpclient.HttpClient;
-import org.apache.commons.httpclient.HttpState;
 import org.apache.commons.httpclient.HttpStatus;
 import org.apache.commons.httpclient.NameValuePair;
-import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.methods.PostMethod;
 
 import java.io.FileOutputStream;
@@ -16,7 +14,7 @@ public class RetrivePage {
     private static HttpClient httpClient = new HttpClient();
 
     static {
-        httpClient.getHostConfiguration().setProxy("172.17.93.10", 8080);
+        httpClient.getHostConfiguration().setProxy("106.15.196.77", 80);
     }
 
     public static boolean downloadPage(String path) throws IOException {
